@@ -59,9 +59,9 @@
 <summary>Screenshots</summary>
 <br>
 
-|                               Data Preparation                               |                                Output                                |
-| :--------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Data Preparation" width="100%"> | <img src="docs/images/screenshot_2.png" title="Output" width="100%"> |
+|                              Data Preparation                               |                               Output                                |
+| :-------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="docs/images/screenshot.png" title="Data Preparation" width="25%"> | <img src="docs/images/screenshot_2.png" title="Output" width="25%"> |
 
 </details>
 
