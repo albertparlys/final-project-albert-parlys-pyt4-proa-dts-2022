@@ -1,0 +1,17 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4A1653",
+    "titleBar.activeBackground": "#681F74",
+    "titleBar.activeForeground": "#FEFCFE"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.pyc": true,
+    "**/__pycache__": true
+  },
+  "python.defaultInterpreterPath": "/mnt/c/dev/digitalent/final_project_apt/.venv/bin/python"
+}

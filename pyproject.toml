@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "final_project_pty4_proa_dts_2022_Albert_Parlys"
+version = "0.0.1"
+authors = [
+  { name="Albert Parlys", email="albert@maritim.go.id" },
+]
+description = "Final Project Package"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/albertparlys/final-project-albert-parlys-pyt4-proa-dts-2022"
+"Bug Tracker" = "https://github.com/albertparlys/final-project-albert-parlys-pyt4-proa-dts-2022/issues"
